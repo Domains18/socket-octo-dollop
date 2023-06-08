@@ -1,0 +1,25 @@
+{
+  "name": "socket-octo-dollop",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domains18/socket-octo-dollop.git"
+  },
+  "keywords": [],
+  "author": "Domains18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domains18/socket-octo-dollop/issues"
+  },
+  "homepage": "https://github.com/Domains18/socket-octo-dollop#readme"
+}
